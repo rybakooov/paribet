@@ -1,1 +1,0 @@
-window.__APP__=(function(a){return {staticAssetsBase:"\u002Fparibet\u002Fstatic\u002Fstatic\u002F1650622659",layout:"page",error:a,state:{app:{},i18n:{routeParams:{}}},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fparibet\u002F",assetsPath:"\u002Fparibet\u002Fstatic\u002F",cdnURL:a}}}}(null));
